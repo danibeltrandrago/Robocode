@@ -13,7 +13,7 @@ import robocode.*;
 public class MyFirstRobot extends Robot{
 
     public void run(){
-    
+        ahead(100);
     }
     
 }
