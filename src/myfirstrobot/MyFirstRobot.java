@@ -16,7 +16,7 @@ import robocode.*;
 public class MyFirstRobot extends AdvancedRobot{
          
     int moveDirection = 1;
-    /* Direccion de avance, +1 hacia donde ibamos, -1 en sentido contrario */
+    /* Direccion de avance, +1 hacia donde ibamos, -1 en sentido contrario. */
     int dir=1;
     double orientacionChoque;
     double initialLife=1;
