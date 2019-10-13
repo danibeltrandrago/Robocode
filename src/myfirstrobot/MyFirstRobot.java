@@ -47,7 +47,7 @@ public class MyFirstRobot extends AdvancedRobot{
             
             //Aquí va el movimiento(ataque) que hace siempre el tanque
             //Es importante multiplicar por la variable dir
-            //ESta parte se sustituye por el movimiento de ataque
+            //ESta parte se sustituye por el movimiento de ataque.
             setTurnRight(dir*10000);
             setTurnGunRight(dir*20);
             setAhead(dir*2000);
